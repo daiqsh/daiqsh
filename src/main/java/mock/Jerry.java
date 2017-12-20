@@ -1,7 +1,7 @@
 package mock;
 
 //<editor-fold desc="Description">
-public class Jerry {
+public class Jerry{
     private String name;
 
     public void goHome() {
